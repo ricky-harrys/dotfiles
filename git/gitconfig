@@ -1,0 +1,10 @@
+[user]
+	name = Ricky Rhodes
+	email = ricky.rhodes@harrys.com
+
+[diff]
+    tool = vscode
+[difftool "vscode"]
+    cmd = code --wait --diff $LOCAL $REMOTE
+[core]
+	editor = code --wait

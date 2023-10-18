@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Dracula Soft",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[typescript]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.defaultDateFormat": null,
+    "workbench.sideBar.location": "right",
+    "prettier.requireConfig": true,
+    "editor.bracketPairColorization.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "prettier.arrowParens": "avoid",
+    "files.watcherExclude": {
+      "**/.bloop": true,
+      "**/.metals": true,
+      "**/.ammonite": true
+    },
+    "git.mergeEditor": false,
+    "editor.stickyScroll.enabled": true,
+    "prettier.bracketSpacing": false,
+    "gitlens.rebaseEditor.ordering": "asc",
+    "redhat.telemetry.enabled": false,
+    "editor.accessibilitySupport": "off",
+    "editor.minimap.enabled": false,
+    "window.commandCenter": true,
+    "git.openRepositoryInParentFolders": "never",
+    "editor.inlineSuggest.enabled": true,
+    "window.zoomLevel": 1,
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false
+    }
+  }
+  
